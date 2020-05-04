@@ -53,3 +53,9 @@ $Streetnumber = $_.'Street number'
    }  |  
    
    Export-Csv -Path "$home\Desktop\test-custom-object\Final-Combination.csv" -NoTypeInformation -Append
+   
+   
+   
+   
+   
+   
